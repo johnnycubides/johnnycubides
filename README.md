@@ -20,6 +20,9 @@ softcore con ayuda de la herramienta LiteX que integra los procesos de
 
 ### Onion MEdialab
 
+![onion medialab](https://raw.githubusercontent.com/johnnycubides/onion-medialab/master/docs/images/onion-medialab/medialab_general_labels.jpg)
+
+
 Placa de desarrollo con capacidad de correr un linux emebebido y además desarrollar tareas de tiempo real;
 cuenta con una placa omega2+ y un microcontrolador stm32.
 
