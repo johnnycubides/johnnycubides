@@ -4,6 +4,7 @@ Acontinuación algunos proyectos que he realizado
 para el área de electronica digital
 
 ### Litex and softcore projects
+![litex](https://raw.githubusercontent.com/unal-digital-electronic/litex-and-softcore-projects/dev-cl-5a-75e-examples/cl-5a-75e-project-example/litex-vexriscv-blink/img/litex-vexriscv-colorlight5a-75e.png)
 
 Esta es una iniciativa para desarrollar proyectos sintetizando en fpga
 softcore con ayuda de la herramienta LiteX que integra los procesos de
@@ -12,7 +13,7 @@ softcore con ayuda de la herramienta LiteX que integra los procesos de
 * Integración de módulos de tareas específicas por sintesis (SPI, UARTS, I2C)
 * Compilación de firmware en baremetal en **C** y en **Zephyr OS** (sistema operativo de tiempo real)
 
-[Wiki del proyecto](https://github.com/unal-digital-electronic/litex-and-softcore-projects/wiki)
+[Wiki del proyecto](https://github.com/unal-digital-electronic/litex-and-softcore-projects/wiki/Hola-mundo-ColorLight-5A-75E)
 
 [Ejemplos de uso](https://gitlab.com/johnnycubides/litex-examples)
 
