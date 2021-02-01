@@ -1,16 +1,16 @@
 ### Johnny Cubides 👋
 
-Acontinuación algunos proyectos que he realizado
-para el área de electronica digital
+A continuación algunos proyectos que he realizado
+para el área de electrónica digital
 
 ### Litex and softcore projects
 ![litex](https://raw.githubusercontent.com/unal-digital-electronic/litex-and-softcore-projects/dev-cl-5a-75e-examples/cl-5a-75e-project-example/litex-vexriscv-blink/img/litex-vexriscv-colorlight5a-75e.png)
 
 Esta es una iniciativa para desarrollar proyectos sintetizando en fpga
-softcore con ayuda de la herramienta LiteX que integra los procesos de
+softcore con ayuda de la herramienta LiteX que integra los procesos de:
 
-* Descripción de hardware a travez de Migen (python)
-* Integración de módulos de tareas específicas por sintesis (SPI, UARTS, I2C)
+* Descripción de hardware a través de Migen (python)
+* Integración de módulos de tareas específicas por síntesis (SPI, UARTS, I2C)
 * Compilación de firmware en baremetal en **C** y en **Zephyr OS** (sistema operativo de tiempo real)
 
 [Wiki del proyecto](https://github.com/unal-digital-electronic/litex-and-softcore-projects/wiki/Hola-mundo-ColorLight-5A-75E)
@@ -26,10 +26,10 @@ softcore con ayuda de la herramienta LiteX que integra los procesos de
 Placa de desarrollo con capacidad de correr un linux emebebido y además desarrollar tareas de tiempo real;
 cuenta con una placa omega2+ y un microcontrolador stm32.
 
-* El sioftware usado es buildroot (para el linux empotrado)
-* ChibiOS para las tareas de tiempo real en el microontrolador
+* El software usado es Buildroot (para el Linux empotrado)
+* ChibiOS para las tareas de tiempo real en el microcontrolador
 
-La comunicación con la placa es vía inhalambrica
+La comunicación con la placa es vía inalámbrica
 
 
 
