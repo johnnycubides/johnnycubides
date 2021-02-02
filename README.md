@@ -44,6 +44,16 @@ con un microcontrolador stm32f405 para aplicaciones que requieran RTOS o interpr
 
 [Link del proyecto para la droidstamp](https://gitlab.com/johnnycubides/droidstamp)
 
+### Sensor network IOT
+
+Implementación de internet de las cosas que contempla las capas de EDGE, FOG y CLOUD, en este proyecto se
+desarrolla la placa que está al borde de la fuente de los datos.
+
+![arquitecture](https://gitlab.com/johnnycubides/sensor-network-iot/-/raw/master/architecture.png)
+
+[Link del proyecto](https://gitlab.com/johnnycubides/sensor-network-iot)
+
+
 <!--
 **johnnycubides/johnnycubides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
