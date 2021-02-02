@@ -40,7 +40,7 @@ La comunicación con la placa es vía inalámbrica
 ![droidstamp](https://gitlab.com/johnnycubides/droidstamp/-/raw/master/droidstamp.png)
 
 Software mantenido para la placa droidstamp la cual permite el desarrollo de proyectos que requieran un servidor basado en linux embebido,
-con un potente microcontrolador stm32f405 para aplicaciones que requieran RTOS o interpretes.
+con un microcontrolador stm32f405 para aplicaciones que requieran RTOS o interpretes.
 
 [Link del proyecto para la droidstamp](https://gitlab.com/johnnycubides/droidstamp)
 
