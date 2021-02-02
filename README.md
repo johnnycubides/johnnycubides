@@ -31,9 +31,18 @@ cuenta con una placa omega2+ y un microcontrolador stm32.
 
 La comunicación con la placa es vía inalámbrica
 
+[Link de la Wiki](https://www.pagehub.org/johnnycubides/onion-medialab/Main)
 
+[Repositorio de proyecto](https://www.pagehub.org/johnnycubides/onion-medialab/Main)
 
-##
+### Droidstamp
+
+![droidstamp](https://gitlab.com/johnnycubides/droidstamp/-/raw/master/droidstamp.png)
+
+Software mantenido para la placa droidstamp la cual permite el desarrollo de proyectos que requieran un servidor basado en linux embebido,
+con un potente microcontrolador stm32f405 para aplicaciones que requieran RTOS o interpretes.
+
+[Link del proyecto para la droidstamp](https://gitlab.com/johnnycubides/droidstamp)
 
 <!--
 **johnnycubides/johnnycubides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
