@@ -1,5 +1,9 @@
 ### Johnny Cubides 👋
 
+* [Linkedin](https://www.linkedin.com/in/johnnycubides/)
+* [Gitlab](https://gitlab.com/johnnycubides/)
+* [Youtube](https://www.youtube.com/@johnnycubides)
+
 A continuación algunos proyectos que he realizado
 para el área de electrónica digital
 
